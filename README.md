@@ -42,7 +42,7 @@ This guide will walk you through setting up **Wallet Chain Hunter**, a fast Ethe
 ### 1️⃣ Clone the Tool (or Download ZIP)
 
 ```bash
-git clone https://github.com/yourusername/Wallet-Chain-Hunter.git
+git clone https://github.com/sigma-cyber-ghost/Wallet-Chain-Hunter.git
 cd Wallet-Chain-Hunter
 pip3 install web3 termcolor eth-account requests
 python3 ghost-hunter.py
